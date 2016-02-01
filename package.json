@@ -1,0 +1,14 @@
+{
+  "name": "learnyoumongo",
+  "version": "1.0.0",
+  "description": "Free Code Camp learnyoumongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Klassen",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^2.1.4"
+  }
+}
